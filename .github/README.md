@@ -2,7 +2,7 @@
 
 A responsive blog theme of WordPress, based on [Bootstrap](https://github.com/twbs/bootstrap). Created and maintained by Vtrois. 
 
-![Kratos Demo](https://s2.ax1x.com/2019/03/24/AYNjQ1.png)
+![Kratos Demo](https://s2.ax1x.com/2019/03/24/AYUwY4.png)
 
 ## Structure
 Within the download you'll find the following directories and files. You'll see something like this :point_down:
