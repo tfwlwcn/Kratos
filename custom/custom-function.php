@@ -1,0 +1,2 @@
+<?php
+/* Kratos custom function */
