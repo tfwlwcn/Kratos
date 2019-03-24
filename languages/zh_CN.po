@@ -1,0 +1,747 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kratos\n"
+"POT-Creation-Date: 2019-03-24 14:56+0800\n"
+"PO-Revision-Date: 2019-03-24 14:56+0800\n"
+"Last-Translator: Seaton Jiang <seaton@vtrois.com>\n"
+"Language-Team: Seaton Jiang <seaton@vtrois.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "返回首页"
+msgstr "返回首页"
+
+#: comments.php:36
+msgid "昵称"
+msgstr "昵称"
+
+#: comments.php:37 includes/theme-function-mail.php:156
+#: includes/theme-function-mail.php:210
+msgid "邮箱"
+msgstr "邮箱"
+
+#: comments.php:38
+msgid "网址"
+msgstr "网址"
+
+#: content.php:25 single.php:21
+msgid "条评论"
+msgstr "条评论"
+
+#: content.php:26 single.php:22
+msgid "次阅读"
+msgstr "次阅读"
+
+#: content.php:27 single.php:23
+msgid "人点赞"
+msgstr "人点赞"
+
+#: content.php:30
+msgid "阅读全文"
+msgstr "阅读全文"
+
+#: includes/class-options-framework-admin.php:93
+#: includes/class-options-framework-admin.php:94
+msgid "主题配置"
+msgstr "主题配置"
+
+#: includes/class-options-framework-admin.php:217
+msgid "保存配置"
+msgstr "保存配置"
+
+#: includes/class-options-framework-admin.php:218
+msgid "恢复默认"
+msgstr "恢复默认"
+
+#: includes/class-options-framework-admin.php:218
+msgid "单击「确定」进行恢复，但所有的配置都将丢失！"
+msgstr "单击「确定」进行恢复，但所有的配置都将丢失！"
+
+#: includes/class-options-framework-admin.php:253
+msgid "恢复完成"
+msgstr "恢复完成"
+
+#: includes/class-options-framework-admin.php:313
+msgid "保存成功"
+msgstr "保存成功"
+
+#: includes/class-options-list.php:21
+msgid "设置-阅读-对搜索引擎的可见性"
+msgstr "设置-阅读-对搜索引擎的可见性"
+
+#: includes/class-options-list.php:27
+msgid "全局配置"
+msgstr "全局配置"
+
+#: includes/class-options-list.php:32
+msgid "悼念模式"
+msgstr "悼念模式"
+
+#: includes/class-options-list.php:33
+msgid "在国家公祭日或悼念某位名人时可以开启，全站黑白显示效果"
+msgstr "在国家公祭日或悼念某位名人时可以开启，全站黑白显示效果"
+
+#: includes/class-options-list.php:40
+msgid "站点 Logo"
+msgstr "站点 Logo"
+
+#: includes/class-options-list.php:41
+msgid "留空则显示文字标题，推荐图片尺寸 180 x 50 像素"
+msgstr "留空则显示文字标题，推荐图片尺寸 180 x 50 像素"
+
+#: includes/class-options-list.php:47
+msgid "背景颜色"
+msgstr "背景颜色"
+
+#: includes/class-options-list.php:48
+msgid "针对整个站点背景颜色控制"
+msgstr "针对整个站点背景颜色控制"
+
+#: includes/class-options-list.php:55
+msgid "头部图片"
+msgstr "头部图片"
+
+#: includes/class-options-list.php:62
+msgid "首页标题"
+msgstr "首页标题"
+
+#: includes/class-options-list.php:69
+msgid "首页简介"
+msgstr "首页简介"
+
+#: includes/class-options-list.php:76
+msgid "网易云音乐"
+msgstr "网易云音乐"
+
+#: includes/class-options-list.php:77
+msgid "启用网易云音乐自动播放功能"
+msgstr "启用网易云音乐自动播放功能"
+
+#: includes/class-options-list.php:84
+msgid "访客留言"
+msgstr "访客留言"
+
+#: includes/class-options-list.php:85
+msgid "在网页右下角显示访客留言按钮"
+msgstr "在网页右下角显示访客留言按钮"
+
+#: includes/class-options-list.php:92
+msgid "访客留言地址"
+msgstr "访客留言地址"
+
+#: includes/class-options-list.php:93
+msgid "输入您的访客留言页面的 URL 链接"
+msgstr "输入您的访客留言页面的 URL 链接"
+
+#: includes/class-options-list.php:100
+msgid "个人微信"
+msgstr "个人微信"
+
+#: includes/class-options-list.php:101
+msgid "在网页右下角显示个人微信二维码"
+msgstr "在网页右下角显示个人微信二维码"
+
+#: includes/class-options-list.php:108
+msgid "微信二维码"
+msgstr "微信二维码"
+
+#: includes/class-options-list.php:109
+msgid "微信二维码图片，图片要大于 150 x 150 像素"
+msgstr "微信二维码图片，图片要大于 150 x 150 像素"
+
+#: includes/class-options-list.php:117
+msgid "文章配置"
+msgstr "文章配置"
+
+#: includes/class-options-list.php:122
+msgid "文章特色图片"
+msgstr "文章特色图片"
+
+#: includes/class-options-list.php:123
+msgid "在文章没有特色图片的时候显示的默认图片"
+msgstr "在文章没有特色图片的时候显示的默认图片"
+
+#: includes/class-options-list.php:130
+msgid "文章简介字数"
+msgstr "文章简介字数"
+
+#: includes/class-options-list.php:137
+msgid "版权声明"
+msgstr "版权声明"
+
+#: includes/class-options-list.php:138
+msgid "开启后会在文章底部显示 CC BY-SA 4.0 声明"
+msgstr "开启后会在文章底部显示 CC BY-SA 4.0 声明"
+
+#: includes/class-options-list.php:145
+msgid "分享按钮"
+msgstr "分享按钮"
+
+#: includes/class-options-list.php:146
+msgid "文章底部显示分享按钮"
+msgstr "文章底部显示分享按钮"
+
+#: includes/class-options-list.php:153
+msgid "打赏按钮"
+msgstr "打赏按钮"
+
+#: includes/class-options-list.php:154
+msgid "文章底部显示打赏按钮"
+msgstr "文章底部显示打赏按钮"
+
+#: includes/class-options-list.php:161
+msgid "打赏连接"
+msgstr "打赏连接"
+
+#: includes/class-options-list.php:162
+msgid "打赏介绍页面的 URL 连接"
+msgstr "打赏介绍页面的 URL 连接"
+
+#: includes/class-options-list.php:170
+msgid "优化配置"
+msgstr "优化配置"
+
+#: includes/class-options-list.php:175
+msgid "优化 Head 信息"
+msgstr "优化 Head 信息"
+
+#: includes/class-options-list.php:176
+msgid ""
+"优化 wp_head() 中调用的 WordPress 版本、Windows Live Writer、Feed link、"
+"Shortlink 等信息"
+msgstr ""
+"优化 wp_head() 中调用的 WordPress 版本、Windows Live Writer、Feed link、"
+"Shortlink 等信息"
+
+#: includes/class-options-list.php:183
+msgid "优化 Gravatar 服务器"
+msgstr "优化 Gravatar 服务器"
+
+#: includes/class-options-list.php:184
+msgid "优化所有的 Gravatar 地址，强制替换为 secure.gravatar.com 并开启 HTTPS"
+msgstr "优化所有的 Gravatar 地址，强制替换为 secure.gravatar.com 并开启 HTTPS"
+
+#: includes/class-options-list.php:191
+msgid "优化页面伪静态"
+msgstr "优化页面伪静态"
+
+#: includes/class-options-list.php:192
+msgid "为页面添加 .html 伪静态后缀，该功能需配置固定链接为自定义结构才可生效"
+msgstr "为页面添加 .html 伪静态后缀，该功能需配置固定链接为自定义结构才可生效"
+
+#: includes/class-options-list.php:199
+msgid "禁用 WordPress 拼写修正"
+msgstr "禁用 WordPress 拼写修正"
+
+#: includes/class-options-list.php:200
+msgid ""
+"禁用 WordPress 执行的 capital_P_dangit() 方法，该方法用来更正在正文、标题、"
+"评论中错误的 WordPress 拼写"
+msgstr ""
+"禁用 WordPress 执行的 capital_P_dangit() 方法，该方法用来更正在正文、标题、"
+"评论中错误的 WordPress 拼写"
+
+#: includes/class-options-list.php:207
+msgid "禁用 WordPress 文章修订功能"
+msgstr "禁用 WordPress 文章修订功能"
+
+#: includes/class-options-list.php:208
+msgid "禁用 WordPress 所有文章类型（Post、Page、Attachment）的修订版本"
+msgstr "禁用 WordPress 所有文章类型（Post、Page、Attachment）的修订版本"
+
+#: includes/class-options-list.php:215
+msgid "禁用 Google 字体"
+msgstr "禁用 Google 字体"
+
+#: includes/class-options-list.php:216
+msgid "禁用后台的谷歌字体，由于谷歌服务器在国外，所以会影响后台访问速度"
+msgstr "禁用后台的谷歌字体，由于谷歌服务器在国外，所以会影响后台访问速度"
+
+#: includes/class-options-list.php:223
+msgid "禁用 Emoji 表情"
+msgstr "禁用 Emoji 表情"
+
+#: includes/class-options-list.php:224
+msgid ""
+"禁用在 s.w.org 获取图片，由于服务器在国外，所以会影响访问速度，但数据库使用 "
+"utf8mb4 字符集时，emoji 将存储到数据库中"
+msgstr ""
+"禁用在 s.w.org 获取图片，由于服务器在国外，所以会影响访问速度，但数据库使用 "
+"utf8mb4 字符集时，emoji 将存储到数据库中"
+
+#: includes/class-options-list.php:231
+msgid "禁用 Trackbacks 功能"
+msgstr "禁用 Trackbacks 功能"
+
+#: includes/class-options-list.php:232
+msgid "由于 Trackbacks 被滥用，所以会导致网站会产生大量的垃圾信息"
+msgstr "由于 Trackbacks 被滥用，所以会导致网站会产生大量的垃圾信息"
+
+#: includes/class-options-list.php:239
+msgid "禁用 Auto Embeds 功能"
+msgstr "禁用 Auto Embeds 功能"
+
+#: includes/class-options-list.php:240
+msgid ""
+"Auto Embeds 支持的大多是国外视频或图片网站，所以建议禁用 Auto Embeds 功能"
+msgstr ""
+"Auto Embeds 支持的大多是国外视频或图片网站，所以建议禁用 Auto Embeds 功能"
+
+#: includes/class-options-list.php:247
+msgid "禁用 Post Embeds 功能"
+msgstr "禁用 Post Embeds 功能"
+
+#: includes/class-options-list.php:248
+msgid ""
+"Post Embeds 功能可以在任意 WordPress 站点用嵌入的方式插入 WordPress 文章，如"
+"果不需要建议禁用"
+msgstr ""
+"Post Embeds 功能可以在任意 WordPress 站点用嵌入的方式插入 WordPress 文章，如"
+"果不需要建议禁用"
+
+#: includes/class-options-list.php:255
+msgid "禁用 Gutenberg 编辑器"
+msgstr "禁用 Gutenberg 编辑器"
+
+#: includes/class-options-list.php:256
+msgid ""
+"为方便还不能适应 Gutenberg 编辑器的用户，这个功能可以在 2021 年之前，可以将"
+"编辑器恢复为经典编辑器"
+msgstr ""
+"为方便还不能适应 Gutenberg 编辑器的用户，这个功能可以在 2021 年之前，可以将"
+"编辑器恢复为经典编辑器"
+
+#: includes/class-options-list.php:264
+msgid "邮件配置"
+msgstr "邮件配置"
+
+#: includes/class-options-list.php:269
+msgid "SMTP 服务"
+msgstr "SMTP 服务"
+
+#: includes/class-options-list.php:270
+msgid "是否启用 SMTP 服务，开启后根据服务商提供的信息填写配置"
+msgstr "是否启用 SMTP 服务，开启后根据服务商提供的信息填写配置"
+
+#: includes/class-options-list.php:277
+msgid "SMTPSecure 配置"
+msgstr "SMTPSecure 配置"
+
+#: includes/class-options-list.php:278
+msgid "该配置与 SMTP 服务器端口对应，如果需要验证 SSL ，则开启这个选项"
+msgstr "该配置与 SMTP 服务器端口对应，如果需要验证 SSL ，则开启这个选项"
+
+#: includes/class-options-list.php:286
+msgid "SMTP 服务器地址"
+msgstr "SMTP 服务器地址"
+
+#: includes/class-options-list.php:293
+msgid "SMTP 服务器端口"
+msgstr "SMTP 服务器端口"
+
+#: includes/class-options-list.php:300
+msgid "发信人名称"
+msgstr "发信人名称"
+
+#: includes/class-options-list.php:307
+msgid "邮箱帐号"
+msgstr "邮箱帐号"
+
+#: includes/class-options-list.php:314
+msgid "邮箱密码"
+msgstr "邮箱密码"
+
+#: includes/class-options-list.php:322
+msgid "SEO 配置"
+msgstr "SEO 配置"
+
+#: includes/class-options-list.php:327
+msgid "Keywords 配置"
+msgstr "Keywords 配置"
+
+#: includes/class-options-list.php:329
+msgid "每个关键词之间需要用英文逗号隔开"
+msgstr "每个关键词之间需要用英文逗号隔开"
+
+#: includes/class-options-list.php:334
+msgid "Description 配置"
+msgstr "Description 配置"
+
+#: includes/class-options-list.php:340
+msgid "robots.txt 配置"
+msgstr "robots.txt 配置"
+
+#: includes/class-options-list.php:341
+msgid "- 需要 "
+msgstr "- 需要 "
+
+#: includes/class-options-list.php:341
+msgid " 是开启的状态，下面的配置才会生效"
+msgstr " 是开启的状态，下面的配置才会生效"
+
+#: includes/class-options-list.php:346
+msgid "- 如果网站根目录下已经有 robots.txt 文件，下面的配置不会生效"
+msgstr "- 如果网站根目录下已经有 robots.txt 文件，下面的配置不会生效"
+
+#: includes/class-options-list.php:351
+msgid "- 点击 "
+msgstr "- 点击 "
+
+#: includes/class-options-list.php:351
+msgid " 查看配置是否生效，如果网站开启了 CDN，可能需要刷新缓存才会生效"
+msgstr " 查看配置是否生效，如果网站开启了 CDN，可能需要刷新缓存才会生效"
+
+#: includes/class-options-list.php:363
+msgid "社交配置"
+msgstr "社交配置"
+
+#: includes/class-options-list.php:368
+msgid "页脚社交图标"
+msgstr "页脚社交图标"
+
+#: includes/class-options-list.php:369
+msgid "在页脚显示社交图标，在相应的选项中填写 URL 地址即可开启，留空则不开启"
+msgstr "在页脚显示社交图标，在相应的选项中填写 URL 地址即可开启，留空则不开启"
+
+#: includes/class-options-list.php:376
+msgid "新浪微博"
+msgstr "新浪微博"
+
+#: includes/class-options-list.php:383
+msgid "QQ 空间"
+msgstr "QQ 空间"
+
+#: includes/class-options-list.php:390
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/class-options-list.php:397
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/class-options-list.php:404
+msgid "Steam"
+msgstr "Steam"
+
+#: includes/class-options-list.php:411
+msgid "Github"
+msgstr "Github"
+
+#: includes/class-options-list.php:419
+msgid "页脚配置"
+msgstr "页脚配置"
+
+#: includes/class-options-list.php:424
+msgid "工信部备案信息"
+msgstr "工信部备案信息"
+
+#: includes/class-options-list.php:425
+msgid "输入您的工信部备案号"
+msgstr "输入您的工信部备案号"
+
+#: includes/class-options-list.php:431
+msgid "公安网备案信息"
+msgstr "公安网备案信息"
+
+#: includes/class-options-list.php:432
+msgid "输入您的公安网备案号"
+msgstr "输入您的公安网备案号"
+
+#: includes/class-options-list.php:438
+msgid "公安网备案连接"
+msgstr "公安网备案连接"
+
+#: includes/class-options-list.php:439
+msgid "输入您的公安网备案的链接地址"
+msgstr "输入您的公安网备案的链接地址"
+
+#: includes/class-options-list.php:445
+msgid "站点统计"
+msgstr "站点统计"
+
+#: includes/class-options-list.php:446
+msgid "这里内容直接包裹在 &lt;script&gt; 标签中，直接写 js 代码即可"
+msgstr "这里内容直接包裹在 &lt;script&gt; 标签中，直接写 js 代码即可"
+
+#: includes/class-options-list.php:453
+msgid "广告配置"
+msgstr "广告配置"
+
+#: includes/class-options-list.php:458
+msgid "广告位置"
+msgstr "广告位置"
+
+#: includes/class-options-list.php:459
+msgid "文章顶部广告栏"
+msgstr "文章顶部广告栏"
+
+#: includes/class-options-list.php:466
+msgid "文章底部广告栏"
+msgstr "文章底部广告栏"
+
+#: includes/class-options-list.php:473
+msgid "顶部广告连接"
+msgstr "顶部广告连接"
+
+#: includes/class-options-list.php:474 includes/class-options-list.php:490
+msgid "输入您的广告链接地址"
+msgstr "输入您的广告链接地址"
+
+#: includes/class-options-list.php:481
+msgid "顶部广告图片"
+msgstr "顶部广告图片"
+
+#: includes/class-options-list.php:489
+msgid "底部广告连接"
+msgstr "底部广告连接"
+
+#: includes/class-options-list.php:497
+msgid "底部广告图片"
+msgstr "底部广告图片"
+
+#: includes/class-options-list.php:506
+msgid "404 配置"
+msgstr "404 配置"
+
+#: includes/class-options-list.php:511
+msgid "背景图片"
+msgstr "背景图片"
+
+#: includes/class-options-list.php:518
+msgid "页面标题"
+msgstr "页面标题"
+
+#: includes/class-options-list.php:525
+msgid "页面简介"
+msgstr "页面简介"
+
+#: includes/class-options-media-uploader.php:64
+msgid "没有选择任何文件"
+msgstr "没有选择任何文件"
+
+#: includes/class-options-media-uploader.php:67
+#: includes/class-options-media-uploader.php:127
+msgid "上传"
+msgstr "上传"
+
+#: includes/class-options-media-uploader.php:69
+#: includes/class-options-media-uploader.php:128
+msgid "删除"
+msgstr "删除"
+
+#: includes/class-options-media-uploader.php:72
+msgid "升级 WordPress 版本获得完整的媒体支持"
+msgstr "升级 WordPress 版本获得完整的媒体支持"
+
+#: includes/class-options-media-uploader.php:95
+msgid "浏览文件"
+msgstr "浏览文件"
+
+#: includes/theme-function-core.php:270
+msgid "顶部菜单"
+msgstr "顶部菜单"
+
+#: includes/theme-function-core.php:299
+msgid ""
+"嗨，欢迎使用 Kratos 主题开始文章创作，欢迎您加入主题 QQ 交流群：<a target="
+"\"_blank\" rel=\"nofollow\" href=\"//shang.qq.com/wpa/qunwpa?"
+"idkey=6ee0cc94b247fe4a068be7442b38fce2850485422ec9d655f0a60563ae00bdd2\">734508</"
+"a> ，如果发现任何 BUG 或者您有什么好的建议，请按照页面给出的提示提交<a "
+"target=\"_blank\" rel=\"nofollow\" href=\"https://github.com/Vtrois/Kratos/"
+"issues/new\"> Issues </a>。"
+msgstr ""
+"嗨，欢迎使用 Kratos 主题开始文章创作，欢迎您加入主题 QQ 交流群：<a target="
+"\"_blank\" rel=\"nofollow\" href=\"//shang.qq.com/wpa/qunwpa?"
+"idkey=6ee0cc94b247fe4a068be7442b38fce2850485422ec9d655f0a60563ae00bdd2\">734508</"
+"a> ，如果发现任何 BUG 或者您有什么好的建议，请按照页面给出的提示提交<a "
+"target=\"_blank\" rel=\"nofollow\" href=\"https://github.com/Vtrois/Kratos/"
+"issues/new\"> Issues </a>。"
+
+#: includes/theme-function-core.php:310
+msgid ""
+"<span id=\"footer-thankyou\">感谢使用 <a href=http://wordpress.org/ target="
+"\"_blank\">WordPress</a> 进行创作，<a target=\"_blank\" rel=\"nofollow\" "
+"href=\"//shang.qq.com/wpa/qunwpa?"
+"idkey=6ee0cc94b247fe4a068be7442b38fce2850485422ec9d655f0a60563ae00bdd2\">点"
+"击</a> 加入主题交流群。</span>"
+msgstr ""
+"<span id=\"footer-thankyou\">感谢使用 <a href=http://wordpress.org/ target="
+"\"_blank\">WordPress</a> 进行创作，<a target=\"_blank\" rel=\"nofollow\" "
+"href=\"//shang.qq.com/wpa/qunwpa?"
+"idkey=6ee0cc94b247fe4a068be7442b38fce2850485422ec9d655f0a60563ae00bdd2\">点"
+"击</a> 加入主题交流群。</span>"
+
+#: includes/theme-function-mail.php:33
+msgid "[通知]您的留言已经通过审核"
+msgstr "[通知]您的留言已经通过审核"
+
+#: includes/theme-function-mail.php:42
+msgid "您有一条留言通过了管理员的审核，摘要信息如下表。"
+msgstr "您有一条留言通过了管理员的审核，摘要信息如下表。"
+
+#: includes/theme-function-mail.php:46
+msgid "文章"
+msgstr "文章"
+
+#: includes/theme-function-mail.php:47
+msgid "内容"
+msgstr "内容"
+
+#: includes/theme-function-mail.php:48 includes/theme-function-mail.php:99
+#: includes/theme-function-mail.php:157 includes/theme-function-mail.php:212
+msgid "操作"
+msgstr "操作"
+
+#: includes/theme-function-mail.php:55 includes/theme-function-mail.php:107
+msgid "查看回复"
+msgstr "查看回复"
+
+#: includes/theme-function-mail.php:60 includes/theme-function-mail.php:112
+#: includes/theme-function-mail.php:169 includes/theme-function-mail.php:225
+msgid "该邮件由系统自动发出，如果不是您本人操作，请忽略此邮件。"
+msgstr "该邮件由系统自动发出，如果不是您本人操作，请忽略此邮件。"
+
+#: includes/theme-function-mail.php:83
+msgid "[通知]您的留言有了新的回复"
+msgstr "[通知]您的留言有了新的回复"
+
+#: includes/theme-function-mail.php:92
+msgid "您有一条留言有了新的回复，摘要信息如下表。"
+msgstr "您有一条留言有了新的回复，摘要信息如下表。"
+
+#: includes/theme-function-mail.php:96
+msgid "原文"
+msgstr "原文"
+
+#: includes/theme-function-mail.php:97
+msgid "回复"
+msgstr "回复"
+
+#: includes/theme-function-mail.php:98
+msgid "作者"
+msgstr "作者"
+
+#: includes/theme-function-mail.php:151
+msgid "您正在请求重置密码，摘要信息如下表。"
+msgstr "您正在请求重置密码，摘要信息如下表。"
+
+#: includes/theme-function-mail.php:155 includes/theme-function-mail.php:209
+msgid "账号"
+msgstr "账号"
+
+#: includes/theme-function-mail.php:164
+msgid "立即重置"
+msgstr "立即重置"
+
+#: includes/theme-function-mail.php:184
+msgid "[通知]重置账户密码"
+msgstr "[通知]重置账户密码"
+
+#: includes/theme-function-mail.php:205
+msgid "恭喜您注册成功，请使用下面的信息登录并修改密码。"
+msgstr "恭喜您注册成功，请使用下面的信息登录并修改密码。"
+
+#: includes/theme-function-mail.php:211
+msgid "密码"
+msgstr "密码"
+
+#: includes/theme-function-mail.php:220
+msgid "立即登录"
+msgstr "立即登录"
+
+#: includes/theme-function-mail.php:235
+msgid "[通知]账户注册成功"
+msgstr "[通知]账户注册成功"
+
+#: includes/theme-function-seo.php:20
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: includes/theme-function-widgets.php:5
+msgid "侧边栏工具"
+msgstr "侧边栏工具"
+
+#: includes/theme-function-widgets.php:23
+msgid ""
+"<a class=\"list-group-item\"><svg class=\"icon\" aria-hidden=\"true\"> <use "
+"xlink:href=\"#i-book\"></use> </svg>暂时没有数据</a>"
+msgstr ""
+"<a class=\"list-group-item\"><svg class=\"icon\" aria-hidden=\"true\"> <use "
+"xlink:href=\"#i-book\"></use> </svg>暂时没有数据</a>"
+
+#: index.php:15
+msgid "搜索结果："
+msgstr "搜索结果："
+
+#: index.php:27
+msgid "很抱歉，没有找到任何内容。"
+msgstr "很抱歉，没有找到任何内容。"
+
+#: single.php:39
+msgid "打赏"
+msgstr "打赏"
+
+#: single.php:41
+msgid "点赞"
+msgstr "点赞"
+
+#: single.php:43
+msgid "分享"
+msgstr "分享"
+
+#: single.php:49
+msgid "<a>暂无</a>"
+msgstr "<a>暂无</a>"
+
+#: single.php:57
+msgid "本作品采用 知识共享署名-相同方式共享 4.0 国际许可协议 进行许可"
+msgstr "本作品采用 知识共享署名-相同方式共享 4.0 国际许可协议 进行许可"
+
+#: single.php:63
+msgid "&lt; 上一篇"
+msgstr "&lt; 上一篇"
+
+#: single.php:68
+msgid "下一篇 &gt;"
+msgstr "下一篇 &gt;"
+
+#. Theme Name of the plugin/theme
+msgid "Kratos"
+msgstr "Kratos"
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/Vtrois/Kratos"
+msgstr "https://github.com/Vtrois/Kratos"
+
+#. Description of the plugin/theme
+msgid ""
+"Kratos 是一款更适合于个人博客的主题，提供了一套可自定义的积木式页面配置组"
+"件，可以通过使用小工具、导航、社交组件、站点标识、自定颜色等功能个性化你的站"
+"点"
+msgstr ""
+"Kratos 是一款更适合于个人博客的主题，提供了一套可自定义的积木式页面配置组"
+"件，可以通过使用小工具、导航、社交组件、站点标识、自定颜色等功能个性化你的站"
+"点"
+
+#. Author of the plugin/theme
+msgid "Seaton Jiang"
+msgstr "Seaton Jiang"
+
+#. Author URI of the plugin/theme
+msgid "https://www.vtrois.com/"
+msgstr "https://www.vtrois.com/"
