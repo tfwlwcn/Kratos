@@ -1,101 +1,41 @@
-# Kratos
+<p align="center">
+<img width="500" height="auto" src="https://s2.ax1x.com/2020/02/16/39nG4S.png">
+</p>
 
-A clean, simple and responsive blog theme of WordPress, based on [Bootstrap](https://github.com/twbs/bootstrap) and [Font Awesome](https://github.com/FortAwesome/Font-Awesome). Created and maintained by Vtrois.
+<p align="center">
+<img src="https://img.shields.io/badge/php-%3E%3D7.0.0-blue">
+<img src="https://img.shields.io/badge/wordpress-v5.2.3%20tested-%234c1">
+<a href="https://crowdin.com/project/kratos"><img src="https://badges.crowdin.net/kratos/localized.svg"></a><img src="https://img.shields.io/github/license/Vtrois/Kratos?color=%234c1">
+</p>
 
-![Kratos Demo](https://s2.ax1x.com/2019/03/24/AYUwY4.png)
+## About
 
-## Structure
-Within the download you'll find the following directories and files. You'll see something like this :point_down:
+Kratos is a responsive WordPress theme focused on the user reading experience, just for fun 🎉
 
-```
-kratos
-├── 404.php
-├── LICENSE
-├── comments.php
-├── content.php
-├── css
-│   ├── animate.min.css
-│   ├── bootstrap.min.css
-│   ├── font-awesome.min.css
-│   ├── layer.min.css
-│   └── superfish.min.css
-├── fonts
-│   ├── FontAwesome.otf
-│   ├── fontawesome-webfont.eot
-│   ├── fontawesome-webfont.svg
-│   ├── fontawesome-webfont.ttf
-│   ├── fontawesome-webfont.woff
-│   └── fontawesome-webfont.woff2
-├── footer.php
-├── functions.php
-├── header-abstract.php
-├── header-banner.php
-├── header.php
-├── images
-│   ├── 404.jpg
-│   ├── about.jpg
-│   ├── ad.png
-│   ├── arrow.png
-│   ├── avatar.png
-│   ├── background.jpg
-│   ├── default.jpg
-│   ├── fingerprint.png
-│   ├── icon-ext.png
-│   ├── icon-police.png
-│   ├── icon.png
-│   ├── licenses.png
-│   ├── options(has some options pic)
-│   ├── smilies(has some emoji pic)
-│   ├── ul-li.png
-│   └── weixin.png
-├── inc
-│   ├── theme-options
-│   │   ├── css
-│   │   │   └── optionsframework.css
-│   │   ├── images
-│   │   │   └── ico-delete.png
-│   │   ├── includes
-│   │   │   ├── class-options-framework-admin.php
-│   │   │   ├── class-options-framework.php
-│   │   │   ├── class-options-interface.php
-│   │   │   ├── class-options-media-uploader.php
-│   │   │   └── class-options-sanitization.php
-│   │   ├── js
-│   │   │   ├── media-uploader.js
-│   │   │   └── options-custom.js
-│   │   └── options-framework.php
-│   ├── share.php
-│   ├── version.php
-│   └── widgets.php
-├── index.php
-├── js
-│   ├── bootstrap.min.js
-│   ├── buttons(has some button pic)
-│   │   └── more.js
-│   ├── hoverIntent.min.js
-│   ├── jquery.easing.min.js
-│   ├── jquery.min.js
-│   ├── jquery.qrcode.min.js
-│   ├── jquery.stellar.min.js
-│   ├── jquery.waypoints.min.js
-│   ├── kratos.js
-│   ├── layer.min.js
-│   ├── modernizr.min.js
-│   └── superfish.js
-├── options.php
-├── page-home.php
-├── page-notitle.php
-├── page.php
-├── screenshot.png
-├── single.php
-├── smiley.php
-└── style.css
-```
-  
+## Install
+
+1. First download the theme's .zip file from the source file to your local computer.
+
+2. From your WordPress Administration area, head to Appearance > Themes and click `Add New`.
+
+3. The Add New theme screen has a new option, `Upload Theme`.
+
+4. The theme upload form is now open, click `Choose File`, select the theme zip file on your computer and click `Install Now`.
+
+5. The theme can now be activated from the administrator. Select the `Appearance` tab, then open the theme catalog, find the theme, and click the `Activate link`.
+
+## Changelog
+Detailed changes for each release are documented in the [release notes](https://github.com/Vtrois/Kratos/releases).
+
+## Donation
+If you find Kratos useful, you can buy us a cup of coffee
+
+<p align="center">
+<img src="https://s2.ax1x.com/2020/02/16/391NgU.png">
+</p>
+
 ## License
 
-- The Kratos Html,CSS,JavaScript,and PHP files are licensed under the GNU General Public License v3:
-  - http://www.gnu.org/licenses/gpl-3.0.html
+The code is available under the [MIT](https://github.com/Vtrois/Kratos/blob/master/LICENSE) license.
 
-- The Kratos documentation is licensed under the CC BY 4.0 License:
-  - https://creativecommons.org/licenses/by/4.0
+The document is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
